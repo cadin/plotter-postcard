@@ -21,7 +21,7 @@ The fields in this file should be self-explanatory.
 
 ## Usage
 
-After setting your variables in `config.pde`, you just need to run the sketch and press `s` to save and SVG of your layout.
+After setting your variables in `config.pde`, you just need to run the `app.pde` in Processing and press `s` to save an SVG of your layout.
 
 ### Key Commands
 
